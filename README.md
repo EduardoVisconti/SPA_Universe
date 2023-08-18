@@ -27,7 +27,7 @@ SPA Universe allows users to navigate through different sections, each containin
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/your-username/spa-universe.git`
+1. Clone this repository: `git clone https://github.com/EduardoVisconti/spa-universe.git`
 2. Navigate to the project directory: `cd spa-universe`
 3. Install dependencies: No additional dependencies are required.
 4. Start the local development server: `npm start`
