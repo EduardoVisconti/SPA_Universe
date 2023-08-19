@@ -2,6 +2,12 @@
 
 SPA Universe is a Single Page Application (SPA) that explores different concepts of web development. This project was created as a practical exercise to demonstrate the implementation of various web development concepts, including routing, asynchronous operations, object-oriented programming, and more.
 
+---
+
+## 🎨 Layout
+
+![SPA_Universe](https://imgur.com/a/UwP4DLT)
+
 ## Technologies Used
 
 - JavaScript
