@@ -6,7 +6,7 @@ SPA Universe is a Single Page Application (SPA) that explores different concepts
 
 ## 🎨 Layout
 
-![SPA_Universe](https://imgur.com/a/UwP4DLT)
+![SPA_Universe](https://i.imgur.com/BslVAzL.gif)
 
 ## Technologies Used
 
